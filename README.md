@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Devang 👋</h1>
+<h1 align="center">Hey, I'm Devang </h1>
 
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | Python • Java • React</h3>
 
