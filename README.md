@@ -1,14 +1,23 @@
-# Hey, I'm Devang 👋
+<h1 align="center">Hey, I'm Devang 👋</h1>
 
-### AI/ML Engineer | Full-Stack Developer | Python • Java • React
+<h3 align="center">AI/ML Engineer | Full-Stack Developer | Python • Java • React</h3>
 
-I'm a final-year Computer Science student at RCOEM who enjoys building
-AI-powered applications that combine machine learning, backend engineering,
-and real-world data.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;ML+%2B+Backend+%2B+Full-Stack;Final-year+CS+student+%40+RCOEM" alt="Typing SVG" />
+</p>
 
-I like taking projects beyond notebooks — from training ML models and
-building NLP/CV pipelines to designing APIs, databases, real-time systems,
-and deployable applications.
+<p align="center">
+  <a href="https://www.linkedin.com/in/devang-choudhary-557019289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/fenay19">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+I'm a final-year Computer Science student at RCOEM who enjoys building AI-powered applications that combine machine learning, backend engineering, and real-world data.
+
+I like taking projects beyond notebooks — from training ML models and building NLP/CV pipelines to designing APIs, databases, real-time systems, and deployable applications.
 
 ---
 
@@ -25,10 +34,9 @@ and deployable applications.
 
 ## 🚀 Featured Projects
 
-### 🌍 [Geotrix — GeoTrade AI Platform]
+### 🌍 [Geotrix — GeoTrade AI Platform](#)
 
-An AI-powered geopolitical intelligence and quantitative trading platform
-that transforms global events and news into market risk signals.
+An AI-powered geopolitical intelligence and quantitative trading platform that transforms global events and news into market risk signals.
 
 **Highlights**
 - Global Tension Index (GTI) generated from geopolitical events
@@ -38,15 +46,13 @@ that transforms global events and news into market risk signals.
 - FAISS-based semantic search and vector retrieval
 - Real-time dashboard with interactive maps and 3D globe
 
-**Stack:** Python • FastAPI • PyTorch • XGBoost • Transformers • FAISS
-• SQLAlchemy • React • TypeScript • Three.js
+**Stack:** Python • FastAPI • PyTorch • XGBoost • Transformers • FAISS • SQLAlchemy • React • TypeScript • Three.js
 
 ---
 
-### 🛡️ [SHIELD — AI Security Platform]
+### 🛡️ [SHIELD — AI Security Platform](#)
 
-A multi-component AI-powered security platform combining machine learning,
-NLP, real-time processing and graph-based analysis.
+A multi-component AI-powered security platform combining machine learning, NLP, real-time processing and graph-based analysis.
 
 **Highlights**
 - AI-assisted security analysis
@@ -56,19 +62,13 @@ NLP, real-time processing and graph-based analysis.
 - Graph-based relationship analysis
 - Containerized backend services
 
-**Stack:** Python • FastAPI • React • PyTorch • OpenCV • NLP
-• PostgreSQL • Neo4j • ChromaDB • Docker
+**Stack:** Python • FastAPI • React • PyTorch • OpenCV • NLP • PostgreSQL • Neo4j • ChromaDB • Docker
 
 ---
 
-### 🏥 [Kidney Health Analytics]
+### 🏥 [Kidney Health Analytics](#)
 
-Machine learning system developed during a 12-hour ML hackathon for
-medical image classification.
-
-Built a custom CNN from scratch to classify medical images into:
-
-**Cyst • Normal • Stone • Tumor**
+Machine learning system developed during a 12-hour ML hackathon for medical image classification. Built a custom CNN from scratch to classify images into **Cyst • Normal • Stone • Tumor**.
 
 **Highlights**
 - Custom CNN architecture without pretrained models
@@ -82,45 +82,74 @@ Built a custom CNN from scratch to classify medical images into:
 
 ---
 
-### 🏙️ [Citizen Connect]
+### 🏙️ [Citizen Connect](#)
 
-An AI-powered civic grievance platform designed to make complaint
-management more transparent and efficient.
+An AI-powered civic grievance platform designed to make complaint management more transparent and efficient.
 
 **Highlights**
 - Automatic complaint categorization
-- Sentiment analysis
-- Priority prediction
+- Sentiment analysis & priority prediction
 - Department routing
 - Admin analytics dashboard
 - Telegram bot integration
 - Interactive location-based grievance tracking
 
-**Stack:** React • TypeScript • Node.js • Express • Transformers
-• Groq • Turso/libSQL • Leaflet
+**Stack:** React • TypeScript • Node.js • Express • Transformers • Groq • Turso/libSQL • Leaflet
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-Python • Java • JavaScript • TypeScript • SQL
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/XGBoost-blue?style=flat-square" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
-### AI / ML
-PyTorch • Scikit-learn • Transformers • NLP • Computer Vision
-• OpenCV • XGBoost • FAISS • Generative AI
+### Skill Distribution
 
-### Backend
-FastAPI • Node.js • Express • Spring Boot
-
-### Frontend
-React • TypeScript • Vite • Tailwind CSS
-
-### Databases
-PostgreSQL • MongoDB • SQLite • MySQL • Turso
-
-### Cloud & Tools
-Docker • AWS • Git • GitHub Actions • Linux
+```mermaid
+pie showData
+    title Where My Time Goes
+    "AI / ML" : 35
+    "Backend" : 25
+    "Frontend" : 15
+    "Data & Databases" : 15
+    "Cloud & DevOps" : 10
+```
 
 ---
 
@@ -146,11 +175,24 @@ Docker • AWS • Git • GitHub Actions • Linux
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fenay19&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fenay19&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenay19&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fenay19&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) •
-[GitHub](https://github.com/fenay19)
+<p align="center">
+  <a href="https://www.linkedin.com/in/devang-choudhary-557019289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/fenay19">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
